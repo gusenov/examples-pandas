@@ -1,0 +1,2 @@
+- [pandas.DataFrame.query — pandas 0.25.3+0.g43013d49f.dirty documentation](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.query.html)
+- [python - how do you filter pandas dataframes by multiple columns - Stack Overflow](https://stackoverflow.com/questions/22086116/how-do-you-filter-pandas-dataframes-by-multiple-columns)
